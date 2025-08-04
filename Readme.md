@@ -1,10 +1,10 @@
-# James Karanja Maina - AI Expert & Technical Author
+# James Karanja Maina - AI Solutions Architect & Technical Author
 
 Welcome to my digital hub for cutting-edge AI development resources, comprehensive learning materials, and practical implementation guides.
 
 ## 🤖 About Me
 
-I'm James Karanja Maina, an AI expert and technical author specializing in practical AI agent development and enterprise AI solutions. Based in Kenya and founder of Zavora.ai, I bridge the gap between AI theory and real-world implementation through comprehensive books and hands-on code examples.
+I'm James Karanja Maina, an AI Solutions Architect and technical author specializing in practical AI agent development and enterprise AI solutions. Based in Kenya and founder of Zavora.ai, I bridge the gap between AI theory and real-world implementation through comprehensive books and hands-on code examples.
 
 ## 🚀 Visit My Website
 **[https://jkmaina.github.io](https://jkmaina.github.io)** - Your gateway to mastering AI development
@@ -205,4 +205,4 @@ Join thousands of developers who have accelerated their AI journey with my compr
 ---
 
 *Building the future of AI, one practical implementation at a time.*  
-**James Karanja Maina** | AI Expert & Technical Author | Founder of Zavora.ai
+**James Karanja Maina** | AI Solutions Architect & Technical Author | Founder of Zavora.ai
