@@ -19,6 +19,22 @@ I'm James Karanja Maina, an AI expert and technical author specializing in pract
 - Step-by-step tutorials
 - [📖 Get it on Amazon](https://www.amazon.com/stores/James-Karanja-Maina/author/B0DPL8G1JH) | [💻 Code Examples](https://github.com/jkmaina/LangGraphProjects)
 
+### ⚡ The Complete OpenAI Agents SDK Blueprint
+**Build Production-Ready AI Agents in Under 2 Hours**
+- 100+ working code examples
+- Production-ready implementations
+- Customer service automation
+- Research automation systems
+- [📖 Get it on Amazon](https://www.amazon.com/Complete-OpenAI-Agents-Blueprint-Production-Ready-ebook/dp/B0FHFQ63DJ) | [💻 Code Examples](https://github.com/jkmaina/openai-agents-sdk)
+
+### 🤝 The Complete AutoGen AI Agent Blueprint
+**Build Multi-Agent AI Systems**
+- Multi-agent system architecture
+- Comprehensive code examples
+- Practical implementation guides
+- Enterprise-ready solutions
+- [📖 Get Your Copy](https://www.amazon.com/Complete-AutoGen-Agent-Blueprint-Developers-ebook/dp/B0FFLJT82T) | [💻 Explore Projects](https://github.com/jkmaina/autogen_blueprint)
+
 ### 🧠 The Complete Hugging Face Blueprint
 **Master the Complete Ecosystem**
 - Comprehensive Hugging Face coverage
@@ -27,14 +43,6 @@ I'm James Karanja Maina, an AI expert and technical author specializing in pract
 - Advanced techniques and optimizations
 - [📖 Available on Amazon](https://www.amazon.com/stores/James-Karanja-Maina/author/B0DPL8G1JH) | [💻 Access Resources](https://github.com/jkmaina/huggingface_book)
 
-### 🤝 The Complete AutoGen AI Agent Blueprint
-**Build Multi-Agent AI Systems**
-- Multi-agent system architecture
-- Comprehensive code examples
-- Practical implementation guides
-- Enterprise-ready solutions
-- [📖 Get Your Copy](https://www.amazon.com/stores/James-Karanja-Maina/author/B0DPL8G1JH) | [💻 Explore Projects](https://github.com/jkmaina/autogen_blueprint)
-
 ### ⚡ OpenAI Agents Blueprint
 **100+ Working Code Examples**
 - 100+ production-ready implementations
@@ -42,6 +50,14 @@ I'm James Karanja Maina, an AI expert and technical author specializing in pract
 - Learn and deploy in under 2 hours
 - Complete educational guide
 - [📖 Order Now](https://www.amazon.com/stores/James-Karanja-Maina/author/B0DPL8G1JH) | [💻 Get Started](https://github.com/jkmaina/openai-agents-blueprint)
+
+### 🚀 The AI Startup: How To Build A Successful AI Startup
+**Actionable Strategies from 15 Leading AI Ventures**
+- 15 real AI startup case studies
+- Actionable business strategies
+- Funding and scaling insights
+- Market entry strategies
+- [📖 Get Your Copy](https://www.amazon.com/Startup-Successful-Actionable-Strategies-Blueprint-ebook/dp/B0FDVCDW38)
 
 ## 🎯 Why Choose My Books?
 
@@ -85,9 +101,9 @@ From beginner-friendly explanations to advanced techniques, each book provides a
 
 ## 📊 By the Numbers
 
-- **4+** Published AI Books
-- **100+** Working Code Examples
-- **50+** AI Agent Projects
+- **6+** Published AI Books
+- **150+** Working Code Examples
+- **75+** AI Agent Projects
 - **5+** Years in AI Development
 - **1000+** Developers Helped Worldwide
 
