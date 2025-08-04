@@ -16,8 +16,8 @@
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
-            color: #333;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #2c3e50;
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
             min-height: 100vh;
         }
 
@@ -28,26 +28,28 @@
         }
 
         .header {
-            background: rgba(255, 255, 255, 0.95);
+            background: rgba(255, 255, 255, 0.98);
             backdrop-filter: blur(10px);
-            border-radius: 20px;
+            border-radius: 16px;
             padding: 40px;
             margin-bottom: 30px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.08);
             text-align: center;
+            border: 1px solid rgba(255,255,255,0.2);
         }
 
         .profile-image {
             width: 150px;
             height: 150px;
             border-radius: 50%;
-            background: linear-gradient(45deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #3b82f6, #1e40af);
             display: flex;
             align-items: center;
             justify-content: center;
             margin: 0 auto 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            box-shadow: 0 8px 24px rgba(59, 130, 246, 0.15);
             overflow: hidden;
+            border: 3px solid rgba(255,255,255,0.9);
         }
 
         .profile-image img {
@@ -60,22 +62,22 @@
         h1 {
             font-size: 2.5em;
             margin-bottom: 10px;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            color: #1e293b;
+            font-weight: 700;
         }
 
         .tagline {
             font-size: 1.2em;
-            color: #666;
+            color: #64748b;
             margin-bottom: 20px;
+            font-weight: 500;
         }
 
         .company {
             font-size: 1.1em;
-            color: #888;
+            color: #3b82f6;
             margin-bottom: 30px;
+            font-weight: 600;
         }
 
         .cta-buttons {
@@ -90,41 +92,48 @@
             align-items: center;
             gap: 10px;
             padding: 15px 30px;
-            background: linear-gradient(45deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #3b82f6, #2563eb);
             color: white;
             text-decoration: none;
-            border-radius: 50px;
+            border-radius: 12px;
             font-weight: 600;
             transition: all 0.3s ease;
-            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+            box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);
+            border: none;
         }
 
         .btn:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.6);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(59, 130, 246, 0.4);
+            background: linear-gradient(135deg, #2563eb, #1d4ed8);
         }
 
         .btn.secondary {
-            background: linear-gradient(45deg, #764ba2, #667eea);
+            background: linear-gradient(135deg, #64748b, #475569);
+            box-shadow: 0 4px 16px rgba(100, 116, 139, 0.3);
+        }
+
+        .btn.secondary:hover {
+            background: linear-gradient(135deg, #475569, #334155);
+            box-shadow: 0 8px 24px rgba(100, 116, 139, 0.4);
         }
 
         .section {
-            background: rgba(255, 255, 255, 0.95);
+            background: rgba(255, 255, 255, 0.98);
             backdrop-filter: blur(10px);
-            border-radius: 20px;
+            border-radius: 16px;
             padding: 40px;
             margin-bottom: 30px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.08);
+            border: 1px solid rgba(255,255,255,0.2);
         }
 
         .section h2 {
             font-size: 2em;
             margin-bottom: 30px;
             text-align: center;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            color: #1e293b;
+            font-weight: 700;
         }
 
         .books-grid {
@@ -136,28 +145,28 @@
 
         .book-card {
             background: white;
-            border-radius: 15px;
+            border-radius: 12px;
             padding: 25px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.06);
             transition: all 0.3s ease;
-            border: 2px solid transparent;
+            border: 1px solid #e2e8f0;
         }
 
         .book-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
-            border-color: #667eea;
+            transform: translateY(-4px);
+            box-shadow: 0 12px 32px rgba(0,0,0,0.12);
+            border-color: #3b82f6;
         }
 
         .book-title {
             font-size: 1.3em;
-            font-weight: 600;
+            font-weight: 700;
             margin-bottom: 15px;
-            color: #333;
+            color: #1e293b;
         }
 
         .book-description {
-            color: #666;
+            color: #64748b;
             margin-bottom: 20px;
             line-height: 1.6;
         }
@@ -174,7 +183,7 @@
 
         .book-features li:before {
             content: "✓ ";
-            color: #667eea;
+            color: #10b981;
             font-weight: bold;
         }
 
@@ -187,25 +196,24 @@
 
         .stat-card {
             background: white;
-            border-radius: 15px;
+            border-radius: 12px;
             padding: 30px;
             text-align: center;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+            border: 1px solid #e2e8f0;
         }
 
         .stat-number {
             font-size: 2.5em;
-            font-weight: bold;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            font-weight: 800;
+            color: #3b82f6;
         }
 
         .stat-label {
-            color: #666;
+            color: #64748b;
             font-size: 1.1em;
             margin-top: 10px;
+            font-weight: 500;
         }
 
         .expertise-grid {
@@ -217,24 +225,23 @@
 
         .expertise-card {
             background: white;
-            border-radius: 15px;
+            border-radius: 12px;
             padding: 25px;
             text-align: center;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.06);
             transition: all 0.3s ease;
+            border: 1px solid #e2e8f0;
         }
 
         .expertise-card:hover {
-            transform: translateY(-3px);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.1);
         }
 
         .expertise-icon {
             font-size: 3em;
             margin-bottom: 15px;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            color: #3b82f6;
         }
 
         .social-links {
@@ -251,7 +258,7 @@
             width: 50px;
             height: 50px;
             border-radius: 50%;
-            background: linear-gradient(45deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #3b82f6, #2563eb);
             color: white;
             text-decoration: none;
             font-size: 1.5em;
@@ -259,16 +266,16 @@
         }
 
         .social-link:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(59, 130, 246, 0.4);
         }
 
         .testimonial {
-            background: #f8f9fa;
-            border-left: 4px solid #667eea;
+            background: #f8fafc;
+            border-left: 4px solid #3b82f6;
             padding: 20px;
             margin: 20px 0;
-            border-radius: 10px;
+            border-radius: 8px;
             font-style: italic;
         }
 
@@ -444,19 +451,19 @@
             <h2><i class="fas fa-star"></i> Why Choose James's Books?</h2>
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-top: 30px;">
                 <div>
-                    <h3 style="color: #667eea; margin-bottom: 15px;"><i class="fas fa-hands-helping"></i> Practical Approach</h3>
+                    <h3 style="color: #3b82f6; margin-bottom: 15px;"><i class="fas fa-hands-helping"></i> Practical Approach</h3>
                     <p>Every book comes with complete, working code examples that you can run immediately. No theoretical fluff—just practical, implementable solutions.</p>
                 </div>
                 <div>
-                    <h3 style="color: #667eea; margin-bottom: 15px;"><i class="fas fa-industry"></i> Industry Experience</h3>
+                    <h3 style="color: #3b82f6; margin-bottom: 15px;"><i class="fas fa-industry"></i> Industry Experience</h3>
                     <p>Learn from real-world experience at Zavora.ai. Get insights from actual enterprise AI implementations and business use cases.</p>
                 </div>
                 <div>
-                    <h3 style="color: #667eea; margin-bottom: 15px;"><i class="fas fa-graduation-cap"></i> Comprehensive Learning</h3>
+                    <h3 style="color: #3b82f6; margin-bottom: 15px;"><i class="fas fa-graduation-cap"></i> Comprehensive Learning</h3>
                     <p>From beginner-friendly explanations to advanced techniques, each book provides a complete learning journey with progressive complexity.</p>
                 </div>
                 <div>
-                    <h3 style="color: #667eea; margin-bottom: 15px;"><i class="fas fa-rocket"></i> Latest Technologies</h3>
+                    <h3 style="color: #3b82f6; margin-bottom: 15px;"><i class="fas fa-rocket"></i> Latest Technologies</h3>
                     <p>Stay ahead with coverage of the newest AI frameworks and tools, including cutting-edge developments in AI agents and ML systems.</p>
                 </div>
             </div>
@@ -480,16 +487,16 @@
         </div>
 
         <!-- Call to Action Section -->
-        <div class="section" style="text-align: center; background: linear-gradient(135deg, #667eea, #764ba2); color: white;">
+        <div class="section" style="text-align: center; background: linear-gradient(135deg, #1e293b, #334155); color: white;">
             <h2 style="color: white; margin-bottom: 20px;"><i class="fas fa-rocket"></i> Ready to Master AI Development?</h2>
             <p style="font-size: 1.2em; margin-bottom: 30px; opacity: 0.9;">
                 Join thousands of developers who have accelerated their AI journey with James's comprehensive guides
             </p>
             <div class="cta-buttons">
-                <a href="https://www.amazon.com/stores/James-Karanja-Maina/author/B0DPL8G1JH" class="btn" style="background: white; color: #667eea;" target="_blank">
+                <a href="https://www.amazon.com/stores/James-Karanja-Maina/author/B0DPL8G1JH" class="btn" style="background: white; color: #1e293b;" target="_blank">
                     <i class="fab fa-amazon"></i> Shop All Books
                 </a>
-                <a href="https://github.com/jkmaina" class="btn secondary" style="background: rgba(255,255,255,0.2); backdrop-filter: blur(10px);" target="_blank">
+                <a href="https://github.com/jkmaina" class="btn secondary" style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);" target="_blank">
                     <i class="fab fa-github"></i> Free Code Samples
                 </a>
             </div>
