@@ -104,7 +104,7 @@ From beginner-friendly explanations to advanced techniques, each book provides a
 - **6+** Published AI Books
 - **150+** Working Code Examples
 - **75+** AI Agent Projects
-- **5+** Years in AI Development
+- **15+** Years in AI Development
 - **1000+** Developers Helped Worldwide
 
 ## 💬 What Readers Are Saying
