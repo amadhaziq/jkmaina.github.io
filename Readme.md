@@ -4,7 +4,7 @@ Welcome to my digital hub for cutting-edge AI development resources, comprehensi
 
 ## 🤖 About Me
 
-I'm James Karanja Maina, an AI expert and technical author specializing in practical AI agent development and enterprise AI solutions. Based in Kenya and working with Zavora Technologies Ltd, I bridge the gap between AI theory and real-world implementation through comprehensive books and hands-on code examples.
+I'm James Karanja Maina, an AI expert and technical author specializing in practical AI agent development and enterprise AI solutions. Based in Kenya and founder of Zavora.ai, I bridge the gap between AI theory and real-world implementation through comprehensive books and hands-on code examples.
 
 ## 🚀 Visit My Website
 **[https://jkmaina.github.io](https://jkmaina.github.io)** - Your gateway to mastering AI development
@@ -49,7 +49,7 @@ I'm James Karanja Maina, an AI expert and technical author specializing in pract
 Every book comes with complete, working code examples that you can run immediately. No fluff—just implementable solutions.
 
 ### 🏢 **Real Industry Experience**
-Learn from actual enterprise AI implementations at Zavora Technologies Ltd. Get insights from real business use cases.
+Learn from actual enterprise AI implementations at Zavora.ai. Get insights from real business use cases.
 
 ### 🚀 **Latest Technologies**
 Stay ahead with coverage of the newest AI frameworks including LangGraph, AutoGen, and OpenAI Agents.
@@ -156,7 +156,7 @@ Complete ecosystem coverage:
 - **Amazon**: [Author Page](https://www.amazon.com/stores/James-Karanja-Maina/author/B0DPL8G1JH)
 
 ### 🏢 **Professional Services**
-Working with **Zavora Technologies Ltd**, I offer:
+Working as **founder of Zavora.ai**, I offer:
 - **AI Consulting**: Strategic AI implementation guidance
 - **Custom Development**: Tailored AI agent solutions
 - **Training & Workshops**: Team upskilling programs
@@ -189,4 +189,4 @@ Join thousands of developers who have accelerated their AI journey with my compr
 ---
 
 *Building the future of AI, one practical implementation at a time.*  
-**James Karanja Maina** | AI Expert & Technical Author | Zavora Technologies Ltd
+**James Karanja Maina** | AI Expert & Technical Author | Founder of Zavora.ai
